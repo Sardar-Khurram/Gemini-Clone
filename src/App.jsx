@@ -1,5 +1,5 @@
 import './App.css'
-import Sidebar from './components/sidebar.jsx'
+import Sidebar from './components/Sidebar.jsx'
 import Main from './components/main.jsx'
 
 function App() {
